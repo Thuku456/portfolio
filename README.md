@@ -20,7 +20,7 @@ This website also samples some of already desighned websites
 * N/A
 ## Technologies Used
 * HTML
-CSS
+* CSS
 ## Support and contact details
 If your would like to contribute to this project, fork the project 
 ### License

@@ -1,9 +1,9 @@
 *{
     color: white;
-    background-color:#892cdc ;
+    background-color:#556052 ;
     font-style: normal;
     font-size: 20px;
-    margin: 9px;
+    margin: 11px;
 }
 .img{
     size: 0px;
@@ -21,4 +21,16 @@ h2{
     color: black;
     font-weight: 200px;
     font-size: 40px;
+}
+.link1{
+    color:cyan;
+    font-style: italic;
+}
+.link2{
+    color:cyan;
+    font-style: italic; 
+}
+.link3{
+    color:cyan;
+    font-style: italic;
 }
