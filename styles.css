@@ -4,6 +4,7 @@
     font-style: normal;
     font-size: 20px;
     margin: 11px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .img{
     size: 0px;
@@ -15,12 +16,15 @@
 }
 h4{
     color:black;
-    font-size: 30px;
+    font-size: 25px;
+    font-family: sans-serif;
 }
 h2{
     color: black;
     font-weight: 200px;
-    font-size: 32px;
+    font-size: 28px;
+    text-align: center;
+    text-decoration: underline;
 }
 .link1{
     color:cyan;
