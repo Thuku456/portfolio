@@ -18,6 +18,7 @@ h4{
     color:black;
     font-size: 25px;
     font-family: sans-serif;
+    text-align: center;
 }
 h2{
     color: black;
@@ -41,4 +42,33 @@ h2{
 footer{
     color: black;
     text-align: center;
+}
+.navbar1{
+    list-style-type: none;
+    display: -webkit-inline-flex;
+   
+}
+.navbar2{
+    list-style-type: none;
+    text-align: center;
+    display: -webkit-inline-flex;
+}
+.nav{
+    color: cyan;
+    font-size: 16px;
+    display: inline;
+    
+}
+.nav1{
+    color: cyan;
+    font-size: 16px;
+}
+.nav2{
+    color: cyan;
+    font-size: 16px;
+}
+.nav3{
+    color: cyan;
+    font-size: 16px;
+    
 }
