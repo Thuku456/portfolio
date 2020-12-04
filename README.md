@@ -2,7 +2,7 @@
 #### This is a simple project about myself
 #### By Nderitu Thuku Macharia
 ## Description
-This  myself by my name , my age . There is also a pictorial representation of myself. It describes how i have journed through my education and all the schools i have attended from chidhood
+This  myself by my name , my age . There is also a pictorial representation of myself. It describes how i have journed through my education and all the schools i have attended from chidhood.
 How i got to know about Moring school
 my hobbies
 This website also samples some of already desighned websites that i have done before 
@@ -25,4 +25,4 @@ This website also samples some of already desighned websites that i have done be
 If your would like to contribute to this project, fork the project 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
-Copyright (c) 2020 Nderitu macaharia
+Copyright (c) 2020 Nderitu thuku macaharia
