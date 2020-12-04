@@ -1,8 +1,9 @@
 *{
     color: white;
-    background-color:#799351 ;
+    background-color:#892cdc ;
     font-style: normal;
     font-size: 20px;
+    margin: 9px;
 }
 .img{
     size: 0px;
@@ -13,11 +14,11 @@
     
 }
 h4{
-    color:cyan;
+    color:black;
     font-size: 30px;
 }
 h2{
-    color: cyan;
+    color: black;
     font-weight: 200px;
     font-size: 40px;
 }
