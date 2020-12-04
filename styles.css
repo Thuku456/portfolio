@@ -1,10 +1,23 @@
 *{
     color: white;
-    background-color:#cf7500 ;
+    background-color:#799351 ;
+    font-style: normal;
+    font-size: 20px;
 }
 .img{
     size: 0px;
     padding: 0px;
-    width: 50px;
+    width: 100px;
+    width: 200px;
+    height: 300px;
     
+}
+h4{
+    color:cyan;
+    font-size: 30px;
+}
+h2{
+    color: cyan;
+    font-weight: 200px;
+    font-size: 40px;
 }
