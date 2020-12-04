@@ -2,10 +2,10 @@
 #### This is a simple project about myself
 #### By Nderitu Thuku Macharia
 ## Description
-This describes about myself That is how i have journed through my education
+This  myself by my name , my age . There is also a pictorial representation of myself. It describes how i have journed through my education and all the schools i have attended from chidhood
 How i got to know about Moring school
 my hobbies
-This website also samples some of already desighned websites
+This website also samples some of already desighned websites that i have done before 
 ## Setup/Installation Requirements
 * Clone the repository to your local machine
     ```
